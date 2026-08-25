@@ -1,0 +1,142 @@
+{
+  "categories": [
+    {
+      "slug": "general",
+      "name": "General",
+      "modules": [
+        "expanding-cta",
+        "table-of-contents",
+        "breadcrumb",
+        "tablepress-styler",
+        "post-grid",
+        "calendar-events",
+        "ajax-search",
+        "comparison-list",
+        "inline-content",
+        "advance-counter",
+        "svg-animator",
+        "paypal-payment-button",
+        "advanced-chart",
+        "stripe-payment-button",
+        "gravity-forms-styler",
+        "contact-form-7-styler",
+        "data-table",
+        "advanced-tab",
+        "business-hour",
+        "content-toggle",
+        "dual-button",
+        "feature-list",
+        "gradient-text",
+        "text-mask",
+        "divi-lottie",
+        "minimal-image",
+        "multi-heading",
+        "single-button",
+        "price-list",
+        "next-divider",
+        "promo-box",
+        "divi-rating",
+        "divi-review",
+        "text-divider",
+        "text-stroke",
+        "timeline"
+      ]
+    },
+    {
+      "slug": "animated",
+      "name": "Animated",
+      "modules": [
+        "spinning-wheel",
+        "video-gallery",
+        "skill-bars",
+        "text-marquee",
+        "rotating-text",
+        "advanced-video",
+        "solar-orbit",
+        "scrolling-zoom-gallery",
+        "news-ticker",
+        "3d-globe-map",
+        "throwable-items",
+        "scrolling-text",
+        "audio-player",
+        "stacked-images",
+        "interactive-circle",
+        "countdown-timer",
+        "before-after",
+        "circular-image",
+        "flip-box",
+        "3d-flip-box",
+        "floating-element",
+        "glitch-text",
+        "divi-hotspot",
+        "image-accordion",
+        "image-hover-box",
+        "image-icon-effect",
+        "image-reveal",
+        "image-scroll-effect",
+        "masonry-gallery",
+        "image-magnifier",
+        "advanced-blurb",
+        "step-flow",
+        "text-animation",
+        "text-color-motion",
+        "text-highlight",
+        "text-hover-highlight",
+        "text-stroke-motion",
+        "text-tilt-effect",
+        "ultimate-image-hover"
+      ]
+    },
+    {
+      "slug": "carousel",
+      "name": "Carousel",
+      "modules": [
+        "scroll-stacked-cards",
+        "logo-tree",
+        "3d-cube-slider",
+        "divi-carousel",
+        "post-carousel",
+        "gallery-slider",
+        "logo-carousel",
+        "testimonial-carousel"
+      ]
+    },
+    {
+      "slug": "team",
+      "name": "Team",
+      "modules": [
+        "team-member-overlay",
+        "creative-team",
+        "next-person",
+        "team-social-reveal",
+        "team-overlay-card"
+      ]
+    },
+    {
+      "slug": "social-media",
+      "name": "Social Media",
+      "modules": [
+        "instagram-carousel",
+        "social-share-buttons",
+        "x-timeline",
+        "x-post",
+        "x-follow",
+        "facebook-embedded-post",
+        "facebook-embedded-video",
+        "facebook-like",
+        "facebook-page",
+        "facebook-share"
+      ]
+    },
+    {
+      "slug": "pages",
+      "name": "Pages",
+      "modules": [
+        "compare-plans",
+        "divi5-landing",
+        "faq-showcase",
+        "product-license-manager"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Demo 1",
+  "content": "<!-- wp:divi/placeholder --><!-- wp:divi/section {\"module\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#60f687\"}}}}},\"builderVersion\":\"5.0.0-public-beta.7.2\"} -->\r\n<!-- wp:divi/row {\"module\":{\"advanced\":{\"flexColumnStructure\":{\"desktop\":{\"value\":\"equal-columns_1\"}}},\"decoration\":{\"layout\":{\"desktop\":{\"value\":{\"flexWrap\":\"nowrap\"}}}}},\"builderVersion\":\"5.0.0-public-beta.7.2\"} -->\r\n<!-- wp:divi/column {\"module\":{\"decoration\":{\"sizing\":{\"desktop\":{\"value\":{\"flexType\":\"24_24\"}}}}},\"builderVersion\":\"5.0.0-public-beta.7.2\"} -->\r\n<!-- wp:divi/heading {\"title\":{\"innerContent\":{\"desktop\":{\"value\":\"Your Title Goes Here\"}}},\"builderVersion\":\"5.0.0-public-beta.7.2\"} /-->\r\n<!-- /wp:divi/column -->\r\n<!-- /wp:divi/row -->\r\n<!-- /wp:divi/section --><!-- /wp:divi/placeholder -->"
+}
