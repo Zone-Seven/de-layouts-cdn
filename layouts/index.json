@@ -543,8 +543,8 @@
       {
         "demo": "demo-4",
         "title": "Advanced Tab Demo-04",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-4/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-4/thumbnail-small.webp",
         "v": "be178616"
       },
       {
@@ -562,59 +562,66 @@
         "v": "985b4c17"
       },
       {
+        "demo": "demo-7",
+        "title": "Advanced Tab Design 02",
+        "thumbnail": "general/advanced-tab/demo-7/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-7/thumbnail-small.webp",
+        "v": "57f19f9c"
+      },
+      {
         "demo": "demo-8",
         "title": "Advanced Tab Design 03",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-8/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-8/thumbnail-small.webp",
         "v": "c3f3d116"
       },
       {
         "demo": "demo-9",
         "title": "Advanced Tab Design 04",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-9/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-9/thumbnail-small.webp",
         "v": "0c00ad86"
       },
       {
         "demo": "demo-10",
         "title": "Advanced Tab Design 05",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-10/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-10/thumbnail-small.webp",
         "v": "657a7951"
       },
       {
         "demo": "demo-11",
         "title": "Advanced Tab Design 06",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-11/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-11/thumbnail-small.webp",
         "v": "423141c5"
       },
       {
         "demo": "demo-12",
         "title": "Advanced Tab Design 07",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-12/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-12/thumbnail-small.webp",
         "v": "15fd0818"
       },
       {
         "demo": "demo-13",
         "title": "Advanced Tab Design 08",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-13/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-13/thumbnail-small.webp",
         "v": "11a57b66"
       },
       {
         "demo": "demo-14",
         "title": "Advanced Tab Design 09",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-14/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-14/thumbnail-small.webp",
         "v": "ce9ec9db"
       },
       {
         "demo": "demo-15",
         "title": "Advanced Tab Design 01",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/advanced-tab/demo-15/thumbnail.webp",
+        "thumbnail_small": "general/advanced-tab/demo-15/thumbnail-small.webp",
         "v": "2f0774bf"
       }
     ],
@@ -687,57 +694,57 @@
       {
         "demo": "demo-6",
         "title": "Demo 6",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/content-toggle/demo-6/thumbnail.webp",
+        "thumbnail_small": "general/content-toggle/demo-6/thumbnail-small.webp",
         "v": "fc04aa46"
       },
       {
         "demo": "demo-7",
         "title": "Demo 7",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/content-toggle/demo-7/thumbnail.webp",
+        "thumbnail_small": "general/content-toggle/demo-7/thumbnail-small.webp",
         "v": "76c44b84"
       },
       {
         "demo": "demo-8",
         "title": "Demo 8",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/content-toggle/demo-8/thumbnail.webp",
+        "thumbnail_small": "general/content-toggle/demo-8/thumbnail-small.webp",
         "v": "f3985572"
       },
       {
         "demo": "demo-9",
         "title": "Demo 9",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/content-toggle/demo-9/thumbnail.webp",
+        "thumbnail_small": "general/content-toggle/demo-9/thumbnail-small.webp",
         "v": "c096c79b"
       },
       {
         "demo": "demo-10",
         "title": "Demo 10",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/content-toggle/demo-10/thumbnail.webp",
+        "thumbnail_small": "general/content-toggle/demo-10/thumbnail-small.webp",
         "v": "b6b4f62e"
       },
       {
         "demo": "demo-11",
         "title": "Demo 11",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/content-toggle/demo-11/thumbnail.webp",
+        "thumbnail_small": "general/content-toggle/demo-11/thumbnail-small.webp",
         "v": "3933ce34"
       },
       {
         "demo": "demo-12",
         "title": "Demo 12",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/content-toggle/demo-12/thumbnail.webp",
+        "thumbnail_small": "general/content-toggle/demo-12/thumbnail-small.webp",
         "v": "c4675981"
       },
       {
         "demo": "demo-13",
         "title": "Demo 13",
-        "thumbnail": "",
-        "thumbnail_small": "",
+        "thumbnail": "general/content-toggle/demo-13/thumbnail.webp",
+        "thumbnail_small": "general/content-toggle/demo-13/thumbnail-small.webp",
         "v": "26ba05ff"
       }
     ],
