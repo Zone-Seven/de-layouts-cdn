@@ -1,0 +1,26 @@
+# Runs on every push to main (the branch the plugin fetches from via jsDelivr):
+#   1. fails the run if any layouts/ file is over jsDelivr's 20 MB limit
+#   2. purges jsDelivr's edge cache for index.json + files changed by the push
+# Both steps are plain scripts under scripts/ and can be run locally.
+name: CDN guard
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check file sizes (jsDelivr 20 MB limit)
+        run: bash scripts/check-sizes.sh
+
+      - name: Purge jsDelivr cache
+        # Still purge when the size check fails — every other file is valid
+        # and the index must not stay stale for 12 hours.
+        if: always()
+        run: bash scripts/purge-cdn.sh "${{ github.event.before }}" "${{ github.sha }}"
