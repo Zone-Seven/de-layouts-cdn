@@ -1,0 +1,72 @@
+{
+  "context": "et_builder_layouts",
+  "data": {
+    "987682816": {
+      "ID": 987682816,
+      "post_date": "2026-09-29 00:00:00",
+      "post_date_gmt": "2026-09-29 00:00:00",
+      "post_content": "<!-- wp:divi/placeholder --><!-- wp:divi/section {\"module\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"}}},\"spacing\":{\"desktop\":{\"value\":{\"padding\":{\"top\":\"72px\",\"right\":\"\",\"bottom\":\"88px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"tablet\":{\"value\":{\"padding\":{\"top\":\"56px\",\"right\":\"\",\"bottom\":\"64px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"phone\":{\"value\":{\"padding\":{\"top\":\"40px\",\"right\":\"\",\"bottom\":\"48px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"border\":{\"desktop\":{\"value\":{\"styles\":{\"top\":{\"width\":\"1px\",\"color\":\"#efedea\",\"style\":\"solid\"}}}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/row {\"module\":{\"advanced\":{\"flexColumnStructure\":{\"desktop\":{\"value\":\"equal-columns_1\"}}},\"decoration\":{\"layout\":{\"desktop\":{\"value\":{\"flexWrap\":\"nowrap\",\"columnGap\":\"48px\",\"alignItems\":\"center\"}},\"tablet\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}},\"phone\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}}},\"sizing\":{\"desktop\":{\"value\":{\"width\":\"90%\",\"maxWidth\":\"1200px\",\"alignSelf\":\"center\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/column {\"module\":{\"decoration\":{\"sizing\":{\"desktop\":{\"value\":{\"flexType\":\"24_24\",\"alignSelf\":\"center\"}},\"tablet\":{\"value\":{\"flexType\":\"24_24\"}},\"phone\":{\"value\":{\"flexType\":\"24_24\"}}},\"layout\":{\"desktop\":{\"value\":{\"rowGap\":\"0px\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/text {\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"16px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"},\"padding\":{\"top\":\"6px\",\"right\":\"14px\",\"bottom\":\"6px\",\"left\":\"14px\",\"syncVertical\":\"on\",\"syncHorizontal\":\"on\"}}}},\"sizing\":{\"desktop\":{\"value\":{\"width\":\"fit-content\",\"alignSelf\":\"center\"}}},\"background\":{\"desktop\":{\"value\":{\"color\":\"#fbe9ec\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"999px\",\"topRight\":\"999px\",\"bottomRight\":\"999px\",\"bottomLeft\":\"999px\"}}}}}},\"content\":{\"innerContent\":{\"desktop\":{\"value\":\"<p>● UP TO 50% OFF · ENDS SUNDAY</p>\"}},\"decoration\":{\"bodyFont\":{\"body\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"600\",\"color\":\"#c4122f\",\"size\":\"12px\",\"lineHeight\":\"1.6em\",\"letterSpacing\":\"0.7px\",\"textAlign\":\"center\"}}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:divi/heading {\"title\":{\"innerContent\":{\"desktop\":{\"value\":\"Sale Collection\"}},\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"headingLevel\":\"h2\",\"family\":\"DM Serif Display\",\"weight\":\"400\",\"color\":\"#111111\",\"size\":\"48px\",\"lineHeight\":\"1.1em\",\"letterSpacing\":\"-0.5px\",\"textAlign\":\"center\"}},\"tablet\":{\"value\":{\"size\":\"40px\"}},\"phone\":{\"value\":{\"size\":\"34px\"}}}}}},\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"16px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:divi/text {\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"48px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"sizing\":{\"desktop\":{\"value\":{\"maxWidth\":\"620px\",\"alignSelf\":\"center\"}}}}},\"content\":{\"innerContent\":{\"desktop\":{\"value\":\"<p>End-of-season favourites at their final price. Once they're gone, they're gone.</p>\"}},\"decoration\":{\"bodyFont\":{\"body\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"color\":\"#6b6966\",\"size\":\"16px\",\"lineHeight\":\"1.6em\",\"letterSpacing\":\"0px\",\"textAlign\":\"center\"}}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:dnxte/product-carousel {\"layout\":{\"advanced\":{\"cardStyle\":{\"desktop\":{\"value\":\"standard\"}},\"navPosition\":{\"desktop\":{\"value\":\"edge\"}},\"paginationType\":{\"desktop\":{\"value\":\"segments\"}},\"paginationPosition\":{\"desktop\":{\"value\":\"below\"}},\"imageRatio\":{\"desktop\":{\"value\":\"3:4\"}},\"actionsPlacement\":{\"desktop\":{\"value\":\"image\"}}}},\"carouselSettings\":{\"advanced\":{\"slidesPerView\":{\"desktop\":{\"value\":\"4\"},\"tablet\":{\"value\":\"2\"},\"phone\":{\"value\":\"1\"}}}},\"elements\":{\"advanced\":{\"badgeDiscount\":{\"desktop\":{\"value\":\"on\"}},\"badgeSale\":{\"desktop\":{\"value\":\"on\"}},\"showCountdown\":{\"desktop\":{\"value\":\"on\"}},\"showSwatches\":{\"desktop\":{\"value\":\"on\"}},\"showReviewCount\":{\"desktop\":{\"value\":\"on\"}},\"ratingPosition\":{\"desktop\":{\"value\":\"belowTitle\"}},\"hoverEffect\":{\"desktop\":{\"value\":\"swap\"}}}},\"actions\":{\"advanced\":{\"quickView\":{\"desktop\":{\"value\":\"on\"}},\"quickViewIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xf06e;\",\"type\":\"fa\",\"weight\":\"400\"}}},\"cartIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xe013;\",\"type\":\"divi\",\"weight\":\"400\"}}},\"cardLink\":{\"desktop\":{\"value\":\"title\"}}}},\"navigationSettings\":{\"advanced\":{\"arrowSize\":{\"desktop\":{\"value\":\"48px\"}},\"arrowIconSize\":{\"desktop\":{\"value\":\"20px\"}},\"arrowColor\":{\"desktop\":{\"value\":{\"normal\":\"#ffffff\",\"hover\":\"#ffffff\"}}},\"arrowBgColor\":{\"desktop\":{\"value\":{\"normal\":\"#111111\",\"hover\":\"#c4122f\"}}},\"arrowBorderColor\":{\"desktop\":{\"value\":\"#111111\"}},\"dotsColor\":{\"desktop\":{\"value\":\"#e3e1dd\"}},\"dotsActiveColor\":{\"desktop\":{\"value\":\"#111111\"}}},\"decoration\":{\"boxShadow\":{\"desktop\":{\"value\":{\"style\":\"preset1\",\"horizontal\":\"0px\",\"vertical\":\"6px\",\"blur\":\"20px\",\"spread\":\"0px\",\"color\":\"rgba(0,0,0,0.18)\",\"position\":\"outer\"}}}}},\"query\":{\"advanced\":{\"source\":{\"desktop\":{\"value\":\"sale\"}}}},\"title\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"16px\",\"lineHeight\":\"1.35em\",\"color\":\"#111111\"},\"hover\":{\"color\":\"#1f4d3a\"}}}}}},\"price\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"600\",\"size\":\"17px\",\"color\":\"#c4122f\"}}}}}},\"salePrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"600\",\"size\":\"17px\",\"color\":\"#c4122f\"}}}}}},\"oldPrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"14px\",\"color\":\"#a09e99\"}}}}}},\"cartButton\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"15px\"}}}},\"background\":{\"desktop\":{\"value\":{\"color\":\"rgba(17,17,17,0.88)\"},\"hover\":{\"color\":\"#c4122f\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"0px\",\"topRight\":\"0px\",\"bottomRight\":\"0px\",\"bottomLeft\":\"0px\"}}}}}},\"reviewCount\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"13px\",\"color\":\"#a09e99\"}}}}}},\"image\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#f4f3f1\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"10px\",\"topRight\":\"10px\",\"bottomRight\":\"10px\",\"bottomLeft\":\"10px\"}}}}}},\"iconButton\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"},\"hover\":{\"color\":\"#111111\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"8px\",\"topRight\":\"8px\",\"bottomRight\":\"8px\",\"bottomLeft\":\"8px\"}}}}}},\"badgeSale\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#111111\"}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- /wp:divi/column --><!-- /wp:divi/row --><!-- /wp:divi/section --><!-- /wp:divi/placeholder -->",
+      "post_title": "Product Carousel — Sale Collection",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "product-carousel-sale-collection",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2026-09-29 00:00:00",
+      "post_modified_gmt": "2026-09-29 00:00:00",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "menu_order": 0,
+      "post_type": "et_pb_layout",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "post_meta": {
+        "_et_pb_built_for_post_type": [
+          "page"
+        ],
+        "_et_pb_template_type": [
+          "section"
+        ],
+        "_et_pb_use_divi_5": [
+          "on"
+        ]
+      },
+      "terms": {
+        "88": {
+          "name": "non_global",
+          "slug": "non_global",
+          "taxonomy": "scope",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "5": {
+          "name": "regular",
+          "slug": "regular",
+          "taxonomy": "module_width",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "6": {
+          "name": "section",
+          "slug": "section",
+          "taxonomy": "layout_type",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        }
+      }
+    }
+  },
+  "presets": "",
+  "global_colors": [],
+  "global_variables": [],
+  "canvases": [],
+  "images": [],
+  "thumbnails": []
+}

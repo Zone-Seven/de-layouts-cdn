@@ -1,0 +1,72 @@
+{
+  "context": "et_builder_layouts",
+  "data": {
+    "987682814": {
+      "ID": 987682814,
+      "post_date": "2026-09-29 00:00:00",
+      "post_date_gmt": "2026-09-29 00:00:00",
+      "post_content": "<!-- wp:divi/placeholder --><!-- wp:divi/section {\"module\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"}}},\"spacing\":{\"desktop\":{\"value\":{\"padding\":{\"top\":\"72px\",\"right\":\"\",\"bottom\":\"88px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"tablet\":{\"value\":{\"padding\":{\"top\":\"56px\",\"right\":\"\",\"bottom\":\"64px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"phone\":{\"value\":{\"padding\":{\"top\":\"40px\",\"right\":\"\",\"bottom\":\"48px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"border\":{\"desktop\":{\"value\":{\"styles\":{\"top\":{\"width\":\"1px\",\"color\":\"#efedea\",\"style\":\"solid\"}}}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/row {\"module\":{\"advanced\":{\"flexColumnStructure\":{\"desktop\":{\"value\":\"equal-columns_1\"}}},\"decoration\":{\"layout\":{\"desktop\":{\"value\":{\"flexWrap\":\"nowrap\",\"columnGap\":\"48px\",\"alignItems\":\"center\"}},\"tablet\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}},\"phone\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}}},\"sizing\":{\"desktop\":{\"value\":{\"width\":\"90%\",\"maxWidth\":\"1200px\",\"alignSelf\":\"center\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/column {\"module\":{\"decoration\":{\"sizing\":{\"desktop\":{\"value\":{\"flexType\":\"24_24\",\"alignSelf\":\"center\"}},\"tablet\":{\"value\":{\"flexType\":\"24_24\"}},\"phone\":{\"value\":{\"flexType\":\"24_24\"}}},\"layout\":{\"desktop\":{\"value\":{\"rowGap\":\"0px\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/heading {\"title\":{\"innerContent\":{\"desktop\":{\"value\":\"Deal of the Month\"}},\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"headingLevel\":\"h2\",\"family\":\"DM Serif Display\",\"weight\":\"400\",\"color\":\"#111111\",\"size\":\"48px\",\"lineHeight\":\"1.1em\",\"letterSpacing\":\"-0.5px\",\"textAlign\":\"center\"}},\"tablet\":{\"value\":{\"size\":\"40px\"}},\"phone\":{\"value\":{\"size\":\"34px\"}}}}}},\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"14px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:divi/text {\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"44px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"sizing\":{\"desktop\":{\"value\":{\"maxWidth\":\"620px\",\"alignSelf\":\"center\"}}}}},\"content\":{\"innerContent\":{\"desktop\":{\"value\":\"<p>Fresh pantry staples at their lowest price this month. Stock up before the deal ends.</p>\"}},\"decoration\":{\"bodyFont\":{\"body\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"color\":\"#6b6966\",\"size\":\"16px\",\"lineHeight\":\"1.6em\",\"letterSpacing\":\"0px\",\"textAlign\":\"center\"}}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:dnxte/product-carousel {\"layout\":{\"advanced\":{\"cardStyle\":{\"desktop\":{\"value\":\"standard\"}},\"navPosition\":{\"desktop\":{\"value\":\"bottom-center\"}},\"paginationType\":{\"desktop\":{\"value\":\"dots\"}},\"paginationPosition\":{\"desktop\":{\"value\":\"inline\"}},\"imageRatio\":{\"desktop\":{\"value\":\"1:1\"}},\"actionsPlacement\":{\"desktop\":{\"value\":\"content\"}},\"actionsPosition\":{\"desktop\":{\"value\":\"topRightRow\"}}}},\"carouselSettings\":{\"advanced\":{\"slidesPerView\":{\"desktop\":{\"value\":\"6\"},\"tablet\":{\"value\":\"3\"},\"phone\":{\"value\":\"2\"}},\"slidesPerGroup\":{\"desktop\":{\"value\":\"page\"}},\"spaceBetween\":{\"desktop\":{\"value\":\"16\"},\"tablet\":{\"value\":\"16\"},\"phone\":{\"value\":\"16\"}}}},\"elements\":{\"advanced\":{\"showUnit\":{\"desktop\":{\"value\":\"on\"}},\"showRating\":{\"desktop\":{\"value\":\"off\"}},\"badgeSale\":{\"desktop\":{\"value\":\"off\"}}}},\"actions\":{\"advanced\":{\"quickView\":{\"desktop\":{\"value\":\"on\"}},\"quickViewIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xf06e;\",\"type\":\"fa\",\"weight\":\"400\"}}},\"quantity\":{\"desktop\":{\"value\":\"on\"}},\"cartIconOnly\":{\"desktop\":{\"value\":\"on\"}},\"cartIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xe013;\",\"type\":\"divi\",\"weight\":\"400\"}}},\"addToCartText\":{\"desktop\":{\"value\":\"Add\"}},\"selectOptionsText\":{\"desktop\":{\"value\":\"Options\"}},\"cardLink\":{\"desktop\":{\"value\":\"title\"}}}},\"navigationSettings\":{\"advanced\":{\"arrowShape\":{\"desktop\":{\"value\":\"circle\"}},\"arrowSize\":{\"desktop\":{\"value\":\"32px\"}},\"arrowIconSize\":{\"desktop\":{\"value\":\"24px\"}},\"arrowColor\":{\"desktop\":{\"value\":{\"normal\":\"#c2c0bc\",\"hover\":\"#111111\"}}},\"arrowBgColor\":{\"desktop\":{\"value\":{\"normal\":\"#ffffff00\",\"hover\":\"#ffffff00\"}}},\"arrowBorderColor\":{\"desktop\":{\"value\":\"#ffffff00\"}},\"dotsColor\":{\"desktop\":{\"value\":\"#cfcdc9\"}},\"dotsActiveColor\":{\"desktop\":{\"value\":\"#111111\"}}}},\"title\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"15px\",\"lineHeight\":\"1.35em\",\"color\":\"#111111\"},\"hover\":{\"color\":\"#1f4d3a\"}}}}}},\"price\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"600\",\"size\":\"22px\",\"letterSpacing\":\"-0.2px\",\"color\":\"#111111\"}}}}}},\"salePrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"600\",\"size\":\"22px\",\"color\":\"#c4122f\"}}}}}},\"oldPrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"13px\",\"color\":\"#a09e99\"}}}}}},\"cartButton\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"15px\"}}}},\"background\":{\"desktop\":{\"value\":{\"color\":\"#1f4d3a\"},\"hover\":{\"color\":\"#111111\"}}}}},\"reviewCount\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"13px\",\"color\":\"#a09e99\"}}}}}},\"image\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#f4f3f1\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"8px\",\"topRight\":\"8px\",\"bottomRight\":\"8px\",\"bottomLeft\":\"8px\"}}}}}},\"iconButton\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"},\"hover\":{\"color\":\"#111111\"}}}}},\"card\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"12px\",\"topRight\":\"12px\",\"bottomRight\":\"12px\",\"bottomLeft\":\"12px\"},\"styles\":{\"all\":{\"width\":\"1px\",\"color\":\"#efedea\",\"style\":\"solid\"}}},\"hover\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"12px\",\"topRight\":\"12px\",\"bottomRight\":\"12px\",\"bottomLeft\":\"12px\"},\"styles\":{\"all\":{\"width\":\"1px\",\"color\":\"#d9d6d0\",\"style\":\"solid\"}}}}},\"boxShadow\":{\"desktop\":{\"hover\":{\"style\":\"preset1\",\"horizontal\":\"0px\",\"vertical\":\"14px\",\"blur\":\"36px\",\"spread\":\"0px\",\"color\":\"rgba(0,0,0,0.06)\",\"position\":\"outer\"}}},\"spacing\":{\"desktop\":{\"value\":{\"padding\":{\"top\":\"12px\",\"right\":\"12px\",\"bottom\":\"12px\",\"left\":\"12px\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:divi/button {\"module\":{\"advanced\":{\"alignment\":{\"desktop\":{\"value\":\"center\"}}},\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"32px\",\"right\":\"\",\"bottom\":\"0px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"button\":{\"innerContent\":{\"desktop\":{\"value\":{\"text\":\"Shop All\",\"linkUrl\":\"/shop/\"}}},\"decoration\":{\"button\":{\"desktop\":{\"value\":{\"enable\":\"on\",\"alignment\":\"center\",\"icon\":{\"enable\":\"on\",\"settings\":{\"unicode\":\"&#x24;\",\"type\":\"divi\",\"weight\":\"400\"},\"placement\":\"right\",\"onHover\":\"off\"}}}},\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff00\"},\"hover\":{\"color\":\"#111111\"}}},\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"14px\",\"color\":\"#111111\"},\"hover\":{\"color\":\"#ffffff\"}}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"999px\",\"topRight\":\"999px\",\"bottomRight\":\"999px\",\"bottomLeft\":\"999px\"},\"styles\":{\"all\":{\"width\":\"1px\",\"color\":\"#111111\",\"style\":\"solid\"}}},\"hover\":{}}},\"spacing\":{\"desktop\":{\"value\":{\"padding\":{\"top\":\"14px\",\"right\":\"28px\",\"bottom\":\"14px\",\"left\":\"28px\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- /wp:divi/column --><!-- /wp:divi/row --><!-- /wp:divi/section --><!-- /wp:divi/placeholder -->",
+      "post_title": "Product Carousel — Deal of the Month",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "product-carousel-deal-of-the-month",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2026-09-29 00:00:00",
+      "post_modified_gmt": "2026-09-29 00:00:00",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "menu_order": 0,
+      "post_type": "et_pb_layout",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "post_meta": {
+        "_et_pb_built_for_post_type": [
+          "page"
+        ],
+        "_et_pb_template_type": [
+          "section"
+        ],
+        "_et_pb_use_divi_5": [
+          "on"
+        ]
+      },
+      "terms": {
+        "88": {
+          "name": "non_global",
+          "slug": "non_global",
+          "taxonomy": "scope",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "5": {
+          "name": "regular",
+          "slug": "regular",
+          "taxonomy": "module_width",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "6": {
+          "name": "section",
+          "slug": "section",
+          "taxonomy": "layout_type",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        }
+      }
+    }
+  },
+  "presets": "",
+  "global_colors": [],
+  "global_variables": [],
+  "canvases": [],
+  "images": [],
+  "thumbnails": []
+}

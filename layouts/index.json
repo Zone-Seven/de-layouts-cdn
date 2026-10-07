@@ -99,7 +99,8 @@
         "post-carousel",
         "gallery-slider",
         "logo-carousel",
-        "testimonial-carousel"
+        "testimonial-carousel",
+        "product-carousel"
       ]
     },
     {
@@ -130,13 +131,44 @@
       ]
     },
     {
-      "slug": "pages",
-      "name": "Pages",
+      "slug": "starter-templates",
+      "name": "Starter Templates",
       "modules": [
-        "compare-plans",
-        "divi5-landing",
-        "faq-showcase",
-        "product-license-manager"
+        "agency",
+        "agency-2",
+        "barber",
+        "bio-1",
+        "blackhat",
+        "child-educare",
+        "clean",
+        "coffee-shop",
+        "construction",
+        "corporate",
+        "crypto",
+        "digital-agency",
+        "digital-marketing",
+        "educare",
+        "finance",
+        "fitness",
+        "gojob",
+        "holograph",
+        "hosting",
+        "law-firm",
+        "marketing",
+        "nft",
+        "personal-portfolio",
+        "pet-adopt",
+        "photography",
+        "plumbo",
+        "portfolio-1",
+        "product",
+        "product-2",
+        "real-estate",
+        "single-product",
+        "techie",
+        "tour-place",
+        "travel",
+        "web-services"
       ]
     }
   ],
@@ -5880,6 +5912,477 @@
         "thumbnail": "pages/product-license-manager/demo-1/thumbnail.webp",
         "thumbnail_small": "pages/product-license-manager/demo-1/thumbnail-small.webp",
         "v": "88602350"
+      }
+    ],
+    "starter-templates__agency": [
+      {
+        "demo": "demo-1",
+        "title": "Agency",
+        "industry": "Agency",
+        "demo_url": "https://diviessential.com/starter-templates/agency/",
+        "thumbnail": "starter-templates/agency/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/agency/demo-1/thumbnail-small.webp",
+        "v": "6e0f1e3f"
+      }
+    ],
+    "starter-templates__agency-2": [
+      {
+        "demo": "demo-1",
+        "title": "Agency 2",
+        "industry": "Agency",
+        "demo_url": "https://diviessential.com/agency/",
+        "thumbnail": "starter-templates/agency-2/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/agency-2/demo-1/thumbnail-small.webp",
+        "v": "741c0b3c"
+      }
+    ],
+    "starter-templates__barber": [
+      {
+        "demo": "demo-1",
+        "title": "Barber",
+        "industry": "Barber",
+        "demo_url": "https://diviessential.com/barber/",
+        "thumbnail": "starter-templates/barber/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/barber/demo-1/thumbnail-small.webp",
+        "v": "6d32ac07"
+      }
+    ],
+    "starter-templates__bio-1": [
+      {
+        "demo": "demo-1",
+        "title": "Bio 1",
+        "industry": "Bio",
+        "demo_url": "https://diviessential.com/bio/",
+        "thumbnail": "starter-templates/bio-1/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/bio-1/demo-1/thumbnail-small.webp",
+        "v": "d6f13ebc"
+      }
+    ],
+    "starter-templates__blackhat": [
+      {
+        "demo": "demo-1",
+        "title": "Blackhat",
+        "industry": "Gaming",
+        "demo_url": "https://diviessential.com/blackhat-layout-design/",
+        "thumbnail": "starter-templates/blackhat/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/blackhat/demo-1/thumbnail-small.webp",
+        "v": "1ff58eaf"
+      }
+    ],
+    "starter-templates__child-educare": [
+      {
+        "demo": "demo-1",
+        "title": "Child Educare",
+        "industry": "Education",
+        "demo_url": "https://diviessential.com/child-educare/",
+        "thumbnail": "starter-templates/child-educare/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/child-educare/demo-1/thumbnail-small.webp",
+        "v": "483a0d3d"
+      }
+    ],
+    "starter-templates__clean": [
+      {
+        "demo": "demo-1",
+        "title": "Clean",
+        "industry": "Handyman Services",
+        "demo_url": "https://diviessential.com/starter-layouts/clean/",
+        "thumbnail": "starter-templates/clean/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/clean/demo-1/thumbnail-small.webp",
+        "v": "2e73d0b7"
+      }
+    ],
+    "starter-templates__coffee-shop": [
+      {
+        "demo": "demo-1",
+        "title": "Coffee Shop",
+        "industry": "Coffee Shop",
+        "demo_url": "https://diviessential.com/coffee-shop/",
+        "thumbnail": "starter-templates/coffee-shop/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/coffee-shop/demo-1/thumbnail-small.webp",
+        "v": "afd05018"
+      }
+    ],
+    "starter-templates__construction": [
+      {
+        "demo": "demo-1",
+        "title": "Construction",
+        "industry": "Construction",
+        "demo_url": "https://diviessential.com/construction/",
+        "thumbnail": "starter-templates/construction/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/construction/demo-1/thumbnail-small.webp",
+        "v": "56d46a8c"
+      }
+    ],
+    "starter-templates__corporate": [
+      {
+        "demo": "demo-1",
+        "title": "Corporate",
+        "industry": "Corporate",
+        "demo_url": "https://diviessential.com/corporate/",
+        "thumbnail": "starter-templates/corporate/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/corporate/demo-1/thumbnail-small.webp",
+        "v": "5804c58f"
+      }
+    ],
+    "starter-templates__crypto": [
+      {
+        "demo": "demo-1",
+        "title": "Crypto",
+        "industry": "Crypto",
+        "demo_url": "https://diviessential.com/crypto-layout-design/",
+        "thumbnail": "starter-templates/crypto/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/crypto/demo-1/thumbnail-small.webp",
+        "v": "1ced2041"
+      }
+    ],
+    "starter-templates__digital-agency": [
+      {
+        "demo": "demo-1",
+        "title": "Digital Agency",
+        "industry": "Agency",
+        "demo_url": "https://diviessential.com/digital-agency/",
+        "thumbnail": "starter-templates/digital-agency/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/digital-agency/demo-1/thumbnail-small.webp",
+        "v": "b502cca8"
+      }
+    ],
+    "starter-templates__digital-marketing": [
+      {
+        "demo": "demo-1",
+        "title": "Digital Marketing",
+        "industry": "Digital Marketing",
+        "demo_url": "https://diviessential.com/digital-marketing-layout-design/",
+        "thumbnail": "starter-templates/digital-marketing/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/digital-marketing/demo-1/thumbnail-small.webp",
+        "v": "3f002cac"
+      }
+    ],
+    "starter-templates__educare": [
+      {
+        "demo": "demo-1",
+        "title": "Educare",
+        "industry": "Education",
+        "demo_url": "https://diviessential.com/starter-layouts/educare/",
+        "thumbnail": "starter-templates/educare/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/educare/demo-1/thumbnail-small.webp",
+        "v": "2c7c96f1"
+      }
+    ],
+    "starter-templates__finance": [
+      {
+        "demo": "demo-1",
+        "title": "Finance",
+        "industry": "Finance",
+        "demo_url": "https://diviessential.com/finance/",
+        "thumbnail": "starter-templates/finance/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/finance/demo-1/thumbnail-small.webp",
+        "v": "9cee3f6e"
+      }
+    ],
+    "starter-templates__fitness": [
+      {
+        "demo": "demo-1",
+        "title": "Fitness",
+        "industry": "Fitness",
+        "demo_url": "https://diviessential.com/fitness-layout-design/",
+        "thumbnail": "starter-templates/fitness/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/fitness/demo-1/thumbnail-small.webp",
+        "v": "82cecda0"
+      }
+    ],
+    "starter-templates__gojob": [
+      {
+        "demo": "demo-1",
+        "title": "Gojob",
+        "industry": "Career Services",
+        "demo_url": "https://diviessential.com/gojob-layout-design/",
+        "thumbnail": "starter-templates/gojob/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/gojob/demo-1/thumbnail-small.webp",
+        "v": "4beea42c"
+      }
+    ],
+    "starter-templates__holograph": [
+      {
+        "demo": "demo-1",
+        "title": "Holograph",
+        "industry": "Architecture",
+        "demo_url": "https://diviessential.com/holograph-layout-design/",
+        "thumbnail": "starter-templates/holograph/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/holograph/demo-1/thumbnail-small.webp",
+        "v": "5b5a8f5d"
+      }
+    ],
+    "starter-templates__hosting": [
+      {
+        "demo": "demo-1",
+        "title": "Hosting",
+        "industry": "Hosting",
+        "demo_url": "https://diviessential.com/hosting/",
+        "thumbnail": "starter-templates/hosting/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/hosting/demo-1/thumbnail-small.webp",
+        "v": "a2e5400a"
+      }
+    ],
+    "starter-templates__law-firm": [
+      {
+        "demo": "demo-1",
+        "title": "Law Firm",
+        "industry": "Law Firm",
+        "demo_url": "https://diviessential.com/law-firm/",
+        "thumbnail": "starter-templates/law-firm/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/law-firm/demo-1/thumbnail-small.webp",
+        "v": "3b83af46"
+      }
+    ],
+    "starter-templates__marketing": [
+      {
+        "demo": "demo-1",
+        "title": "Marketing",
+        "industry": "Marketing",
+        "demo_url": "https://diviessential.com/marketing/",
+        "thumbnail": "starter-templates/marketing/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/marketing/demo-1/thumbnail-small.webp",
+        "v": "5d787a31"
+      }
+    ],
+    "starter-templates__nft": [
+      {
+        "demo": "demo-1",
+        "title": "NFT",
+        "industry": "Crypto",
+        "demo_url": "https://diviessential.com/nft-layout-design/",
+        "thumbnail": "starter-templates/nft/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/nft/demo-1/thumbnail-small.webp",
+        "v": "15727217"
+      }
+    ],
+    "starter-templates__personal-portfolio": [
+      {
+        "demo": "demo-1",
+        "title": "Personal Portfolio",
+        "industry": "Personal Portfolio",
+        "demo_url": "https://diviessential.com/personal-portfolio/",
+        "thumbnail": "starter-templates/personal-portfolio/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/personal-portfolio/demo-1/thumbnail-small.webp",
+        "v": "308d5bd9"
+      }
+    ],
+    "starter-templates__pet-adopt": [
+      {
+        "demo": "demo-1",
+        "title": "Pet Adopt",
+        "industry": "Pet",
+        "demo_url": "https://diviessential.com/pet-adopt/",
+        "thumbnail": "starter-templates/pet-adopt/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/pet-adopt/demo-1/thumbnail-small.webp",
+        "v": "27a563aa"
+      }
+    ],
+    "starter-templates__photography": [
+      {
+        "demo": "demo-1",
+        "title": "Photography",
+        "industry": "Photography",
+        "demo_url": "https://diviessential.com/photography/",
+        "thumbnail": "starter-templates/photography/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/photography/demo-1/thumbnail-small.webp",
+        "v": "fb435841"
+      }
+    ],
+    "starter-templates__plumbo": [
+      {
+        "demo": "demo-1",
+        "title": "Plumbo",
+        "industry": "Handyman Services",
+        "demo_url": "https://diviessential.com/plumbo/",
+        "thumbnail": "starter-templates/plumbo/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/plumbo/demo-1/thumbnail-small.webp",
+        "v": "7c0e1e68"
+      }
+    ],
+    "starter-templates__portfolio-1": [
+      {
+        "demo": "demo-1",
+        "title": "Portfolio 1",
+        "industry": "Portfolio",
+        "demo_url": "https://diviessential.com/starter-layouts/portfolio/",
+        "thumbnail": "starter-templates/portfolio-1/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/portfolio-1/demo-1/thumbnail-small.webp",
+        "v": "b29959de"
+      }
+    ],
+    "starter-templates__product": [
+      {
+        "demo": "demo-1",
+        "title": "Product",
+        "industry": "E-Commerce",
+        "demo_url": "https://diviessential.com/starter-layouts/product/",
+        "thumbnail": "starter-templates/product/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/product/demo-1/thumbnail-small.webp",
+        "v": "da810334"
+      }
+    ],
+    "starter-templates__product-2": [
+      {
+        "demo": "demo-1",
+        "title": "Product 2",
+        "industry": "E-Commerce",
+        "demo_url": "",
+        "thumbnail": "starter-templates/product-2/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/product-2/demo-1/thumbnail-small.webp",
+        "v": "9b5f428a"
+      }
+    ],
+    "starter-templates__real-estate": [
+      {
+        "demo": "demo-1",
+        "title": "Real Estate",
+        "industry": "Real Estate",
+        "demo_url": "https://diviessential.com/real-estate/",
+        "thumbnail": "starter-templates/real-estate/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/real-estate/demo-1/thumbnail-small.webp",
+        "v": "e1f8fb33"
+      }
+    ],
+    "starter-templates__single-product": [
+      {
+        "demo": "demo-1",
+        "title": "Single Product",
+        "industry": "Single Product",
+        "demo_url": "https://diviessential.com/single-product/",
+        "thumbnail": "starter-templates/single-product/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/single-product/demo-1/thumbnail-small.webp",
+        "v": "c40ef514"
+      }
+    ],
+    "starter-templates__techie": [
+      {
+        "demo": "demo-1",
+        "title": "Techie",
+        "industry": "Technology",
+        "demo_url": "https://diviessential.com/techie-layout/",
+        "thumbnail": "starter-templates/techie/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/techie/demo-1/thumbnail-small.webp",
+        "v": "d88320d5"
+      }
+    ],
+    "starter-templates__tour-place": [
+      {
+        "demo": "demo-1",
+        "title": "Tour Place",
+        "industry": "Tourism",
+        "demo_url": "https://diviessential.com/tour-place-layout-design/",
+        "thumbnail": "starter-templates/tour-place/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/tour-place/demo-1/thumbnail-small.webp",
+        "v": "e9932498"
+      }
+    ],
+    "starter-templates__travel": [
+      {
+        "demo": "demo-1",
+        "title": "Travel",
+        "industry": "Tourism",
+        "demo_url": "https://diviessential.com/starter-layouts/travel/",
+        "thumbnail": "starter-templates/travel/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/travel/demo-1/thumbnail-small.webp",
+        "v": "3979db1c"
+      }
+    ],
+    "starter-templates__web-services": [
+      {
+        "demo": "demo-1",
+        "title": "Web Services",
+        "industry": "Agency",
+        "demo_url": "https://diviessential.com/web-services/",
+        "thumbnail": "starter-templates/web-services/demo-1/thumbnail.webp",
+        "thumbnail_small": "starter-templates/web-services/demo-1/thumbnail-small.webp",
+        "v": "7ccc6c7f"
+      }
+    ],
+    "carousel__product-carousel": [
+      {
+        "demo": "demo-1",
+        "title": "Product Carousel \u2014 New Arrivals",
+        "thumbnail": "carousel/product-carousel/demo-1/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-1/thumbnail-small.webp",
+        "v": "1051fc2f"
+      },
+      {
+        "demo": "demo-2",
+        "title": "Product Carousel \u2014 Featured Products",
+        "thumbnail": "carousel/product-carousel/demo-2/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-2/thumbnail-small.webp",
+        "v": "6aea39f3"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Product Carousel \u2014 Dual Showcase",
+        "thumbnail": "carousel/product-carousel/demo-3/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-3/thumbnail-small.webp",
+        "v": "c672997e"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Product Carousel \u2014 Our Bestsellers",
+        "thumbnail": "carousel/product-carousel/demo-4/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-4/thumbnail-small.webp",
+        "v": "2c1810be"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Product Carousel \u2014 Trending Outfits",
+        "thumbnail": "carousel/product-carousel/demo-5/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-5/thumbnail-small.webp",
+        "v": "2ff41136"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Product Carousel \u2014 Deal of the Month",
+        "thumbnail": "carousel/product-carousel/demo-6/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-6/thumbnail-small.webp",
+        "v": "970f4eb7"
+      },
+      {
+        "demo": "demo-7",
+        "title": "Product Carousel \u2014 Trending Now",
+        "thumbnail": "carousel/product-carousel/demo-7/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-7/thumbnail-small.webp",
+        "v": "287a86df"
+      },
+      {
+        "demo": "demo-8",
+        "title": "Product Carousel \u2014 Sale Collection",
+        "thumbnail": "carousel/product-carousel/demo-8/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-8/thumbnail-small.webp",
+        "v": "1181d19e"
+      },
+      {
+        "demo": "demo-9",
+        "title": "Product Carousel \u2014 The Living Room Edit",
+        "thumbnail": "carousel/product-carousel/demo-9/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-9/thumbnail-small.webp",
+        "v": "f946f953"
+      },
+      {
+        "demo": "demo-10",
+        "title": "Product Carousel \u2014 Product Spotlight",
+        "thumbnail": "carousel/product-carousel/demo-10/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-10/thumbnail-small.webp",
+        "v": "288ee2a8"
+      },
+      {
+        "demo": "demo-11",
+        "title": "Product Carousel \u2014 Looks of the Week",
+        "thumbnail": "carousel/product-carousel/demo-11/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-11/thumbnail-small.webp",
+        "v": "299e5c23"
+      },
+      {
+        "demo": "demo-12",
+        "title": "Product Carousel \u2014 Pieces for the Slow Season",
+        "thumbnail": "carousel/product-carousel/demo-12/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-12/thumbnail-small.webp",
+        "v": "f0105f31"
       }
     ]
   }

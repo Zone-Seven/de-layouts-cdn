@@ -1,0 +1,72 @@
+{
+  "context": "et_builder_layouts",
+  "data": {
+    "987682820": {
+      "ID": 987682820,
+      "post_date": "2026-09-29 00:00:00",
+      "post_date_gmt": "2026-09-29 00:00:00",
+      "post_content": "<!-- wp:divi/placeholder --><!-- wp:divi/section {\"module\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"}}},\"spacing\":{\"desktop\":{\"value\":{\"padding\":{\"top\":\"72px\",\"right\":\"\",\"bottom\":\"104px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"tablet\":{\"value\":{\"padding\":{\"top\":\"56px\",\"right\":\"\",\"bottom\":\"64px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"phone\":{\"value\":{\"padding\":{\"top\":\"40px\",\"right\":\"\",\"bottom\":\"48px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"border\":{\"desktop\":{\"value\":{\"styles\":{\"top\":{\"width\":\"1px\",\"color\":\"#efedea\",\"style\":\"solid\"}}}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/row {\"module\":{\"advanced\":{\"flexColumnStructure\":{\"desktop\":{\"value\":\"equal-columns_1\"}}},\"decoration\":{\"layout\":{\"desktop\":{\"value\":{\"flexWrap\":\"nowrap\",\"columnGap\":\"48px\",\"alignItems\":\"center\"}},\"tablet\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}},\"phone\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}}},\"sizing\":{\"desktop\":{\"value\":{\"width\":\"90%\",\"maxWidth\":\"1200px\",\"alignSelf\":\"center\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/column {\"module\":{\"decoration\":{\"sizing\":{\"desktop\":{\"value\":{\"flexType\":\"24_24\",\"alignSelf\":\"center\"}},\"tablet\":{\"value\":{\"flexType\":\"24_24\"}},\"phone\":{\"value\":{\"flexType\":\"24_24\"}}},\"layout\":{\"desktop\":{\"value\":{\"rowGap\":\"0px\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/text {\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"10px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"content\":{\"innerContent\":{\"desktop\":{\"value\":\"<p>AUTUMN · VOLUME II</p>\"}},\"decoration\":{\"bodyFont\":{\"body\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"color\":\"#9a9894\",\"size\":\"11px\",\"lineHeight\":\"1.6em\",\"letterSpacing\":\"1.5px\",\"textAlign\":\"left\"}}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:divi/heading {\"title\":{\"innerContent\":{\"desktop\":{\"value\":\"Pieces for the Slow Season\"}},\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"headingLevel\":\"h2\",\"family\":\"DM Serif Display\",\"weight\":\"400\",\"color\":\"#111111\",\"size\":\"32px\",\"lineHeight\":\"1.15em\",\"letterSpacing\":\"-0.5px\",\"textAlign\":\"left\"}},\"tablet\":{\"value\":{\"size\":\"28px\"}},\"phone\":{\"value\":{\"size\":\"26px\"}}}}}},\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"10px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:divi/text {\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"8px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"sizing\":{\"desktop\":{\"value\":{\"maxWidth\":\"520px\"}}}}},\"content\":{\"innerContent\":{\"desktop\":{\"value\":\"<p>Tactile fabrics, quiet colours, and shapes made to be worn for years. Drag the rail to browse.</p>\"}},\"decoration\":{\"bodyFont\":{\"body\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"color\":\"#6b6966\",\"size\":\"15px\",\"lineHeight\":\"1.6em\",\"letterSpacing\":\"0px\",\"textAlign\":\"left\"}}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:dnxte/product-carousel {\"layout\":{\"advanced\":{\"cardStyle\":{\"desktop\":{\"value\":\"standard\"}},\"navPosition\":{\"desktop\":{\"value\":\"bottom-right\"}},\"paginationType\":{\"desktop\":{\"value\":\"progress\"}},\"paginationPosition\":{\"desktop\":{\"value\":\"below\"}},\"imageRatio\":{\"desktop\":{\"value\":\"4:5\"}},\"showCounter\":{\"desktop\":{\"value\":\"on\"}},\"counterPosition\":{\"desktop\":{\"value\":\"header\"}},\"actionsPlacement\":{\"desktop\":{\"value\":\"image\"}}}},\"carouselSettings\":{\"advanced\":{\"slidesPerView\":{\"desktop\":{\"value\":\"3.3\"},\"tablet\":{\"value\":\"2.2\"},\"phone\":{\"value\":\"1.2\"}},\"spaceBetween\":{\"desktop\":{\"value\":\"32\"},\"tablet\":{\"value\":\"32\"},\"phone\":{\"value\":\"32\"}}}},\"elements\":{\"advanced\":{\"showSwatches\":{\"desktop\":{\"value\":\"on\"}},\"showRating\":{\"desktop\":{\"value\":\"off\"}},\"hoverEffect\":{\"desktop\":{\"value\":\"slide\"}},\"badgeSale\":{\"desktop\":{\"value\":\"off\"}}}},\"actions\":{\"advanced\":{\"quickView\":{\"desktop\":{\"value\":\"on\"}},\"quickViewIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xf06e;\",\"type\":\"fa\",\"weight\":\"400\"}}},\"cardLink\":{\"desktop\":{\"value\":\"title\"}},\"cartIcon\":{\"desktop\":{\"value\":{\"unicode\":\"\",\"type\":\"divi\",\"weight\":\"400\"}}}}},\"navigationSettings\":{\"advanced\":{\"progressTrackColor\":{\"desktop\":{\"value\":\"#efedea\"}}}},\"title\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"16px\",\"lineHeight\":\"1.35em\",\"color\":\"#111111\"},\"hover\":{\"color\":\"#1f4d3a\"}}}}}},\"price\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"15px\",\"color\":\"#6b6966\"}}}}}},\"salePrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"15px\",\"color\":\"#6b6966\"}}}}}},\"oldPrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"13px\",\"color\":\"#a09e99\"}}}}}},\"cartButton\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"13px\",\"color\":\"#111111\",\"letterSpacing\":\"1px\",\"textTransform\":\"uppercase\"},\"hover\":{\"color\":\"#ffffff\"}}}},\"background\":{\"desktop\":{\"value\":{\"color\":\"rgba(255,255,255,0.92)\"},\"hover\":{\"color\":\"#111111\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"0px\",\"topRight\":\"0px\",\"bottomRight\":\"0px\",\"bottomLeft\":\"0px\"}}}}}},\"reviewCount\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"13px\",\"color\":\"#a09e99\"}}}}}},\"image\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#f4f3f1\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"6px\",\"topRight\":\"6px\",\"bottomRight\":\"6px\",\"bottomLeft\":\"6px\"}}}}}},\"iconButton\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"rgba(255,255,255,0.92)\"},\"hover\":{\"color\":\"#111111\"}}},\"boxShadow\":{\"desktop\":{\"value\":{\"style\":\"preset1\",\"horizontal\":\"0px\",\"vertical\":\"0px\",\"blur\":\"0px\",\"spread\":\"0px\",\"color\":\"rgba(0,0,0,0)\",\"position\":\"outer\"}}}}},\"headerCounter\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"12px\",\"letterSpacing\":\"1.2px\",\"color\":\"#8a8884\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- /wp:divi/column --><!-- /wp:divi/row --><!-- /wp:divi/section --><!-- /wp:divi/placeholder -->",
+      "post_title": "Product Carousel — Pieces for the Slow Season",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "product-carousel-pieces-for-the-slow-season",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2026-09-29 00:00:00",
+      "post_modified_gmt": "2026-09-29 00:00:00",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "menu_order": 0,
+      "post_type": "et_pb_layout",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "post_meta": {
+        "_et_pb_built_for_post_type": [
+          "page"
+        ],
+        "_et_pb_template_type": [
+          "section"
+        ],
+        "_et_pb_use_divi_5": [
+          "on"
+        ]
+      },
+      "terms": {
+        "88": {
+          "name": "non_global",
+          "slug": "non_global",
+          "taxonomy": "scope",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "5": {
+          "name": "regular",
+          "slug": "regular",
+          "taxonomy": "module_width",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "6": {
+          "name": "section",
+          "slug": "section",
+          "taxonomy": "layout_type",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        }
+      }
+    }
+  },
+  "presets": "",
+  "global_colors": [],
+  "global_variables": [],
+  "canvases": [],
+  "images": [],
+  "thumbnails": []
+}

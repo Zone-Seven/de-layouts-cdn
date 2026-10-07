@@ -1,0 +1,72 @@
+{
+  "context": "et_builder_layouts",
+  "data": {
+    "987682818": {
+      "ID": 987682818,
+      "post_date": "2026-09-29 00:00:00",
+      "post_date_gmt": "2026-09-29 00:00:00",
+      "post_content": "<!-- wp:divi/placeholder --><!-- wp:divi/section {\"module\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"}}},\"spacing\":{\"desktop\":{\"value\":{\"padding\":{\"top\":\"72px\",\"right\":\"\",\"bottom\":\"96px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"tablet\":{\"value\":{\"padding\":{\"top\":\"56px\",\"right\":\"\",\"bottom\":\"64px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"phone\":{\"value\":{\"padding\":{\"top\":\"40px\",\"right\":\"\",\"bottom\":\"48px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"border\":{\"desktop\":{\"value\":{\"styles\":{\"top\":{\"width\":\"1px\",\"color\":\"#efedea\",\"style\":\"solid\"}}}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/row {\"module\":{\"advanced\":{\"flexColumnStructure\":{\"desktop\":{\"value\":\"equal-columns_1\"}}},\"decoration\":{\"layout\":{\"desktop\":{\"value\":{\"flexWrap\":\"nowrap\",\"columnGap\":\"48px\",\"alignItems\":\"center\"}},\"tablet\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}},\"phone\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}}},\"sizing\":{\"desktop\":{\"value\":{\"width\":\"90%\",\"maxWidth\":\"1200px\",\"alignSelf\":\"center\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/column {\"module\":{\"decoration\":{\"sizing\":{\"desktop\":{\"value\":{\"flexType\":\"24_24\",\"alignSelf\":\"center\"}},\"tablet\":{\"value\":{\"flexType\":\"24_24\"}},\"phone\":{\"value\":{\"flexType\":\"24_24\"}}},\"layout\":{\"desktop\":{\"value\":{\"rowGap\":\"0px\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/heading {\"title\":{\"innerContent\":{\"desktop\":{\"value\":\"Product Spotlight\"}},\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"headingLevel\":\"h2\",\"family\":\"DM Serif Display\",\"weight\":\"400\",\"color\":\"#111111\",\"size\":\"48px\",\"lineHeight\":\"1.1em\",\"letterSpacing\":\"-0.5px\",\"textAlign\":\"left\"}},\"tablet\":{\"value\":{\"size\":\"40px\"}},\"phone\":{\"value\":{\"size\":\"34px\"}}}}}},\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"14px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:divi/text {\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"8px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"sizing\":{\"desktop\":{\"value\":{\"maxWidth\":\"560px\"}}}}},\"content\":{\"innerContent\":{\"desktop\":{\"value\":\"<p>One piece in focus. Step through the edit and the spotlight follows.</p>\"}},\"decoration\":{\"bodyFont\":{\"body\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"color\":\"#6b6966\",\"size\":\"16px\",\"lineHeight\":\"1.6em\",\"letterSpacing\":\"0px\",\"textAlign\":\"left\"}}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:dnxte/product-carousel {\"layout\":{\"advanced\":{\"cardStyle\":{\"desktop\":{\"value\":\"spotlight\"}},\"navPosition\":{\"desktop\":{\"value\":\"header\"}},\"paginationType\":{\"desktop\":{\"value\":\"dots\"}},\"paginationPosition\":{\"desktop\":{\"value\":\"header\"}},\"spotlightFollows\":{\"desktop\":{\"value\":\"on\"}},\"imageRatio\":{\"desktop\":{\"value\":\"3:4\"}}}},\"carouselSettings\":{\"advanced\":{\"slidesPerView\":{\"desktop\":{\"value\":\"5\"},\"tablet\":{\"value\":\"3\"},\"phone\":{\"value\":\"2\"}},\"loop\":{\"desktop\":{\"value\":\"on\"}}}},\"elements\":{\"advanced\":{\"showSwatches\":{\"desktop\":{\"value\":\"on\"}},\"showReviewCount\":{\"desktop\":{\"value\":\"on\"}},\"badgeFeatured\":{\"desktop\":{\"value\":\"on\"}},\"badgeFeaturedText\":{\"desktop\":{\"value\":\"Editor's pick\"}},\"hoverEffect\":{\"desktop\":{\"value\":\"zoomIn\"}},\"badgeSale\":{\"desktop\":{\"value\":\"off\"}}}},\"actions\":{\"advanced\":{\"quickView\":{\"desktop\":{\"value\":\"on\"}},\"quickViewIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xf06e;\",\"type\":\"fa\",\"weight\":\"400\"}}},\"cartIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xe013;\",\"type\":\"divi\",\"weight\":\"400\"}}}}},\"navigationSettings\":{\"advanced\":{\"arrowShape\":{\"desktop\":{\"value\":\"circle\"}},\"arrowSize\":{\"desktop\":{\"value\":\"48px\"}},\"arrowIconSize\":{\"desktop\":{\"value\":\"20px\"}},\"arrowColor\":{\"desktop\":{\"value\":{\"normal\":\"#ffffff\",\"hover\":\"#ffffff\"}}},\"arrowBgColor\":{\"desktop\":{\"value\":{\"normal\":\"#111111\",\"hover\":\"#1f4d3a\"}}},\"arrowBorderColor\":{\"desktop\":{\"value\":\"#111111\"}},\"dotsColor\":{\"desktop\":{\"value\":\"#e3e1dd\"}},\"dotsActiveColor\":{\"desktop\":{\"value\":\"#111111\"}}}},\"title\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"15px\",\"lineHeight\":\"1.35em\"}}}}}},\"price\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"600\",\"size\":\"15px\"}}}}}},\"salePrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"600\",\"size\":\"16px\",\"color\":\"#ffffff\"}}}}}},\"oldPrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"13px\",\"color\":\"rgba(255,255,255,0.65)\"}}}}}},\"cartButton\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"15px\",\"color\":\"#ffffff\"},\"hover\":{\"color\":\"#111111\"}}}},\"background\":{\"desktop\":{\"value\":{\"color\":\"#1f4d3a\"},\"hover\":{\"color\":\"#ffffff\"}}},\"spacing\":{\"desktop\":{\"value\":{\"padding\":{\"top\":\"16px\",\"right\":\"22px\",\"bottom\":\"16px\",\"left\":\"22px\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"reviewCount\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"13px\",\"color\":\"rgba(255,255,255,0.72)\"}}}}}},\"image\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#f4f3f1\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"10px\",\"topRight\":\"10px\",\"bottomRight\":\"10px\",\"bottomLeft\":\"10px\"}}}}}},\"iconButton\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"},\"hover\":{\"color\":\"#111111\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"8px\",\"topRight\":\"8px\",\"bottomRight\":\"8px\",\"bottomLeft\":\"8px\"}}}}}},\"spotlightTitle\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"DM Serif Display\",\"weight\":\"400\",\"size\":\"34px\",\"lineHeight\":\"1.1em\",\"letterSpacing\":\"-0.3px\",\"color\":\"#ffffff\"}}}}}},\"spotlightPrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"600\",\"size\":\"20px\",\"color\":\"#ffffff\"}}}}}},\"swatch\":{\"decoration\":{\"boxShadow\":{\"desktop\":{\"value\":{\"style\":\"preset1\",\"horizontal\":\"0px\",\"vertical\":\"0px\",\"blur\":\"0px\",\"spread\":\"1px\",\"color\":\"rgba(255,255,255,0.5)\",\"position\":\"outer\"}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- /wp:divi/column --><!-- /wp:divi/row --><!-- /wp:divi/section --><!-- /wp:divi/placeholder -->",
+      "post_title": "Product Carousel — Product Spotlight",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "product-carousel-product-spotlight",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2026-09-29 00:00:00",
+      "post_modified_gmt": "2026-09-29 00:00:00",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "menu_order": 0,
+      "post_type": "et_pb_layout",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "post_meta": {
+        "_et_pb_built_for_post_type": [
+          "page"
+        ],
+        "_et_pb_template_type": [
+          "section"
+        ],
+        "_et_pb_use_divi_5": [
+          "on"
+        ]
+      },
+      "terms": {
+        "88": {
+          "name": "non_global",
+          "slug": "non_global",
+          "taxonomy": "scope",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "5": {
+          "name": "regular",
+          "slug": "regular",
+          "taxonomy": "module_width",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "6": {
+          "name": "section",
+          "slug": "section",
+          "taxonomy": "layout_type",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        }
+      }
+    }
+  },
+  "presets": "",
+  "global_colors": [],
+  "global_variables": [],
+  "canvases": [],
+  "images": [],
+  "thumbnails": []
+}

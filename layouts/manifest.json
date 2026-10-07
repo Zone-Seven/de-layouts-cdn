@@ -98,7 +98,8 @@
         "post-carousel",
         "gallery-slider",
         "logo-carousel",
-        "testimonial-carousel"
+        "testimonial-carousel",
+        "product-carousel"
       ]
     },
     {
@@ -129,13 +130,44 @@
       ]
     },
     {
-      "slug": "pages",
-      "name": "Pages",
+      "slug": "starter-templates",
+      "name": "Starter Templates",
       "modules": [
-        "compare-plans",
-        "divi5-landing",
-        "faq-showcase",
-        "product-license-manager"
+        "agency",
+        "agency-2",
+        "barber",
+        "bio-1",
+        "blackhat",
+        "child-educare",
+        "clean",
+        "coffee-shop",
+        "construction",
+        "corporate",
+        "crypto",
+        "digital-agency",
+        "digital-marketing",
+        "educare",
+        "finance",
+        "fitness",
+        "gojob",
+        "holograph",
+        "hosting",
+        "law-firm",
+        "marketing",
+        "nft",
+        "personal-portfolio",
+        "pet-adopt",
+        "photography",
+        "plumbo",
+        "portfolio-1",
+        "product",
+        "product-2",
+        "real-estate",
+        "single-product",
+        "techie",
+        "tour-place",
+        "travel",
+        "web-services"
       ]
     }
   ]

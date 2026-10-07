@@ -1,0 +1,72 @@
+{
+  "context": "et_builder_layouts",
+  "data": {
+    "987682817": {
+      "ID": 987682817,
+      "post_date": "2026-09-29 00:00:00",
+      "post_date_gmt": "2026-09-29 00:00:00",
+      "post_content": "<!-- wp:divi/placeholder --><!-- wp:divi/section {\"module\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"}}},\"spacing\":{\"desktop\":{\"value\":{\"padding\":{\"top\":\"72px\",\"right\":\"\",\"bottom\":\"88px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"tablet\":{\"value\":{\"padding\":{\"top\":\"56px\",\"right\":\"\",\"bottom\":\"64px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}},\"phone\":{\"value\":{\"padding\":{\"top\":\"40px\",\"right\":\"\",\"bottom\":\"48px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}},\"border\":{\"desktop\":{\"value\":{\"styles\":{\"top\":{\"width\":\"1px\",\"color\":\"#efedea\",\"style\":\"solid\"}}}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/row {\"module\":{\"advanced\":{\"flexColumnStructure\":{\"desktop\":{\"value\":\"equal-columns_1\"}}},\"decoration\":{\"layout\":{\"desktop\":{\"value\":{\"flexWrap\":\"nowrap\",\"columnGap\":\"48px\",\"alignItems\":\"center\"}},\"tablet\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}},\"phone\":{\"value\":{\"flexWrap\":\"wrap\",\"rowGap\":\"32px\"}}},\"sizing\":{\"desktop\":{\"value\":{\"width\":\"90%\",\"maxWidth\":\"1200px\",\"alignSelf\":\"center\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/column {\"module\":{\"decoration\":{\"sizing\":{\"desktop\":{\"value\":{\"flexType\":\"24_24\",\"alignSelf\":\"center\"}},\"tablet\":{\"value\":{\"flexType\":\"24_24\"}},\"phone\":{\"value\":{\"flexType\":\"24_24\"}}},\"layout\":{\"desktop\":{\"value\":{\"rowGap\":\"0px\"}}}}},\"builderVersion\":\"5.8.1\"} --><!-- wp:divi/heading {\"title\":{\"innerContent\":{\"desktop\":{\"value\":\"The Living Room Edit\"}},\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"headingLevel\":\"h2\",\"family\":\"DM Serif Display\",\"weight\":\"400\",\"color\":\"#111111\",\"size\":\"36px\",\"lineHeight\":\"1.1em\",\"letterSpacing\":\"-0.5px\",\"textAlign\":\"center\"}},\"tablet\":{\"value\":{\"size\":\"32px\"}},\"phone\":{\"value\":{\"size\":\"28px\"}}}}}},\"module\":{\"decoration\":{\"spacing\":{\"desktop\":{\"value\":{\"margin\":{\"top\":\"0px\",\"right\":\"\",\"bottom\":\"60px\",\"left\":\"\",\"syncVertical\":\"off\",\"syncHorizontal\":\"off\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- wp:dnxte/product-carousel {\"layout\":{\"advanced\":{\"cardStyle\":{\"desktop\":{\"value\":\"standard\"}},\"navPosition\":{\"desktop\":{\"value\":\"bottom-right\"}},\"paginationType\":{\"desktop\":{\"value\":\"progress-fraction\"}},\"paginationPosition\":{\"desktop\":{\"value\":\"below\"}},\"imageRatio\":{\"desktop\":{\"value\":\"4:5\"}},\"showCounter\":{\"desktop\":{\"value\":\"on\"}},\"counterPosition\":{\"desktop\":{\"value\":\"navStart\"}},\"actionsPlacement\":{\"desktop\":{\"value\":\"overlay\"}},\"actionsPosition\":{\"desktop\":{\"value\":\"bottomCenter\"}}}},\"carouselSettings\":{\"advanced\":{\"slidesPerView\":{\"desktop\":{\"value\":\"4\"},\"tablet\":{\"value\":\"2\"},\"phone\":{\"value\":\"1\"}},\"spaceBetween\":{\"desktop\":{\"value\":\"32\"},\"tablet\":{\"value\":\"32\"},\"phone\":{\"value\":\"32\"}}}},\"elements\":{\"advanced\":{\"showBadge\":{\"desktop\":{\"value\":\"off\"}},\"showRating\":{\"desktop\":{\"value\":\"off\"}},\"titlePriceRow\":{\"desktop\":{\"value\":\"on\"}}}},\"actions\":{\"advanced\":{\"quickView\":{\"desktop\":{\"value\":\"on\"}},\"quickViewIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xf06e;\",\"type\":\"fa\",\"weight\":\"400\"}}},\"cartIcon\":{\"desktop\":{\"value\":{\"unicode\":\"&#xe013;\",\"type\":\"divi\",\"weight\":\"400\"}}},\"cardLink\":{\"desktop\":{\"value\":\"title\"}}}},\"navigationSettings\":{\"advanced\":{\"arrowShape\":{\"desktop\":{\"value\":\"text\"}}}},\"title\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"15px\",\"lineHeight\":\"1.35em\",\"color\":\"#111111\"},\"hover\":{\"color\":\"#1f4d3a\"}}}}}},\"price\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"15px\",\"color\":\"#6b6966\"}}}}}},\"salePrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"15px\",\"color\":\"#6b6966\"}}}}}},\"oldPrice\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"14px\",\"color\":\"#a09e99\"}}}}}},\"cartButton\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"500\",\"size\":\"15px\"}}}},\"background\":{\"desktop\":{\"value\":{\"color\":\"#111111\"},\"hover\":{\"color\":\"#1f4d3a\"}}}}},\"reviewCount\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"13px\",\"color\":\"#a09e99\"}}}}}},\"image\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#f7f6f4\"}}},\"border\":{\"desktop\":{\"value\":{\"radius\":{\"sync\":\"on\",\"topLeft\":\"4px\",\"topRight\":\"4px\",\"bottomRight\":\"4px\",\"bottomLeft\":\"4px\"}}}}}},\"iconButton\":{\"decoration\":{\"background\":{\"desktop\":{\"value\":{\"color\":\"#ffffff\"},\"hover\":{\"color\":\"#111111\"}}}}},\"headerCounter\":{\"decoration\":{\"font\":{\"font\":{\"desktop\":{\"value\":{\"family\":\"Outfit\",\"weight\":\"400\",\"size\":\"12px\",\"letterSpacing\":\"1.2px\",\"color\":\"#8a8884\"}}}}}},\"builderVersion\":\"5.8.1\"} /--><!-- /wp:divi/column --><!-- /wp:divi/row --><!-- /wp:divi/section --><!-- /wp:divi/placeholder -->",
+      "post_title": "Product Carousel — The Living Room Edit",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "comment_status": "closed",
+      "ping_status": "closed",
+      "post_password": "",
+      "post_name": "product-carousel-the-living-room-edit",
+      "to_ping": "",
+      "pinged": "",
+      "post_modified": "2026-09-29 00:00:00",
+      "post_modified_gmt": "2026-09-29 00:00:00",
+      "post_content_filtered": "",
+      "post_parent": 0,
+      "menu_order": 0,
+      "post_type": "et_pb_layout",
+      "post_mime_type": "",
+      "comment_count": "0",
+      "filter": "raw",
+      "post_meta": {
+        "_et_pb_built_for_post_type": [
+          "page"
+        ],
+        "_et_pb_template_type": [
+          "section"
+        ],
+        "_et_pb_use_divi_5": [
+          "on"
+        ]
+      },
+      "terms": {
+        "88": {
+          "name": "non_global",
+          "slug": "non_global",
+          "taxonomy": "scope",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "5": {
+          "name": "regular",
+          "slug": "regular",
+          "taxonomy": "module_width",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        },
+        "6": {
+          "name": "section",
+          "slug": "section",
+          "taxonomy": "layout_type",
+          "parent": 0,
+          "all_parents": [],
+          "description": ""
+        }
+      }
+    }
+  },
+  "presets": "",
+  "global_colors": [],
+  "global_variables": [],
+  "canvases": [],
+  "images": [],
+  "thumbnails": []
+}
