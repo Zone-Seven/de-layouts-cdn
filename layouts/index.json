@@ -170,6 +170,20 @@
         "travel",
         "web-services"
       ]
+    },
+    {
+      "slug": "prebuilt-websites",
+      "name": "Pre-Built Websites",
+      "modules": [
+        "agency",
+        "ai",
+        "garage",
+        "garden",
+        "law",
+        "medical",
+        "roofing",
+        "solar"
+      ]
     }
   ],
   "demos": {
@@ -5337,6 +5351,92 @@
         "v": "532632dd"
       }
     ],
+    "carousel__product-carousel": [
+      {
+        "demo": "demo-1",
+        "title": "Product Carousel — New Arrivals",
+        "thumbnail": "carousel/product-carousel/demo-1/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-1/thumbnail-small.webp",
+        "v": "1051fc2f"
+      },
+      {
+        "demo": "demo-2",
+        "title": "Product Carousel — Featured Products",
+        "thumbnail": "carousel/product-carousel/demo-2/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-2/thumbnail-small.webp",
+        "v": "6aea39f3"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Product Carousel — Dual Showcase",
+        "thumbnail": "carousel/product-carousel/demo-3/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-3/thumbnail-small.webp",
+        "v": "c672997e"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Product Carousel — Our Bestsellers",
+        "thumbnail": "carousel/product-carousel/demo-4/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-4/thumbnail-small.webp",
+        "v": "2c1810be"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Product Carousel — Trending Outfits",
+        "thumbnail": "carousel/product-carousel/demo-5/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-5/thumbnail-small.webp",
+        "v": "2ff41136"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Product Carousel — Deal of the Month",
+        "thumbnail": "carousel/product-carousel/demo-6/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-6/thumbnail-small.webp",
+        "v": "970f4eb7"
+      },
+      {
+        "demo": "demo-7",
+        "title": "Product Carousel — Trending Now",
+        "thumbnail": "carousel/product-carousel/demo-7/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-7/thumbnail-small.webp",
+        "v": "287a86df"
+      },
+      {
+        "demo": "demo-8",
+        "title": "Product Carousel — Sale Collection",
+        "thumbnail": "carousel/product-carousel/demo-8/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-8/thumbnail-small.webp",
+        "v": "1181d19e"
+      },
+      {
+        "demo": "demo-9",
+        "title": "Product Carousel — The Living Room Edit",
+        "thumbnail": "carousel/product-carousel/demo-9/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-9/thumbnail-small.webp",
+        "v": "f946f953"
+      },
+      {
+        "demo": "demo-10",
+        "title": "Product Carousel — Product Spotlight",
+        "thumbnail": "carousel/product-carousel/demo-10/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-10/thumbnail-small.webp",
+        "v": "288ee2a8"
+      },
+      {
+        "demo": "demo-11",
+        "title": "Product Carousel — Looks of the Week",
+        "thumbnail": "carousel/product-carousel/demo-11/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-11/thumbnail-small.webp",
+        "v": "299e5c23"
+      },
+      {
+        "demo": "demo-12",
+        "title": "Product Carousel — Pieces for the Slow Season",
+        "thumbnail": "carousel/product-carousel/demo-12/thumbnail.webp",
+        "thumbnail_small": "carousel/product-carousel/demo-12/thumbnail-small.webp",
+        "v": "f0105f31"
+      }
+    ],
     "team__team-member-overlay": [
       {
         "demo": "demo-1",
@@ -5878,42 +5978,6 @@
         "v": "332e0cc3"
       }
     ],
-    "pages__compare-plans": [
-      {
-        "demo": "demo-1",
-        "title": "Compare Plans",
-        "thumbnail": "pages/compare-plans/demo-1/thumbnail.webp",
-        "thumbnail_small": "pages/compare-plans/demo-1/thumbnail-small.webp",
-        "v": "07fd5d43"
-      }
-    ],
-    "pages__divi5-landing": [
-      {
-        "demo": "demo-1",
-        "title": "Divi 5 Landing",
-        "thumbnail": "pages/divi5-landing/demo-1/thumbnail.webp",
-        "thumbnail_small": "pages/divi5-landing/demo-1/thumbnail-small.webp",
-        "v": "cf0d1ba8"
-      }
-    ],
-    "pages__faq-showcase": [
-      {
-        "demo": "demo-1",
-        "title": "FAQ Showcase",
-        "thumbnail": "pages/faq-showcase/demo-1/thumbnail.webp",
-        "thumbnail_small": "pages/faq-showcase/demo-1/thumbnail-small.webp",
-        "v": "74c112f6"
-      }
-    ],
-    "pages__product-license-manager": [
-      {
-        "demo": "demo-1",
-        "title": "Product License Manager",
-        "thumbnail": "pages/product-license-manager/demo-1/thumbnail.webp",
-        "thumbnail_small": "pages/product-license-manager/demo-1/thumbnail-small.webp",
-        "v": "88602350"
-      }
-    ],
     "starter-templates__agency": [
       {
         "demo": "demo-1",
@@ -6299,90 +6363,391 @@
         "v": "7ccc6c7f"
       }
     ],
-    "carousel__product-carousel": [
+    "prebuilt-websites__agency": [
       {
         "demo": "demo-1",
-        "title": "Product Carousel \u2014 New Arrivals",
-        "thumbnail": "carousel/product-carousel/demo-1/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-1/thumbnail-small.webp",
-        "v": "1051fc2f"
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/agency/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/agency/demo-1/thumbnail-small.webp",
+        "v": "a41edd0a"
       },
       {
         "demo": "demo-2",
-        "title": "Product Carousel \u2014 Featured Products",
-        "thumbnail": "carousel/product-carousel/demo-2/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-2/thumbnail-small.webp",
-        "v": "6aea39f3"
+        "title": "About",
+        "thumbnail": "prebuilt-websites/agency/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/agency/demo-2/thumbnail-small.webp",
+        "v": "2c4c93b1"
       },
       {
         "demo": "demo-3",
-        "title": "Product Carousel \u2014 Dual Showcase",
-        "thumbnail": "carousel/product-carousel/demo-3/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-3/thumbnail-small.webp",
-        "v": "c672997e"
+        "title": "Projects",
+        "thumbnail": "prebuilt-websites/agency/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/agency/demo-3/thumbnail-small.webp",
+        "v": "5ad80ff0"
       },
       {
         "demo": "demo-4",
-        "title": "Product Carousel \u2014 Our Bestsellers",
-        "thumbnail": "carousel/product-carousel/demo-4/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-4/thumbnail-small.webp",
-        "v": "2c1810be"
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/agency/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/agency/demo-4/thumbnail-small.webp",
+        "v": "e0c3cfbf"
+      }
+    ],
+    "prebuilt-websites__ai": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/ai/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/ai/demo-1/thumbnail-small.webp",
+        "v": "620308d8"
+      },
+      {
+        "demo": "demo-2",
+        "title": "About",
+        "thumbnail": "prebuilt-websites/ai/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/ai/demo-2/thumbnail-small.webp",
+        "v": "0400a8a9"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Services",
+        "thumbnail": "prebuilt-websites/ai/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/ai/demo-3/thumbnail-small.webp",
+        "v": "127086b1"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Services Details",
+        "thumbnail": "prebuilt-websites/ai/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/ai/demo-4/thumbnail-small.webp",
+        "v": "49d03b2f"
       },
       {
         "demo": "demo-5",
-        "title": "Product Carousel \u2014 Trending Outfits",
-        "thumbnail": "carousel/product-carousel/demo-5/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-5/thumbnail-small.webp",
-        "v": "2ff41136"
+        "title": "Projects",
+        "thumbnail": "prebuilt-websites/ai/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/ai/demo-5/thumbnail-small.webp",
+        "v": "3dfe1b15"
       },
       {
         "demo": "demo-6",
-        "title": "Product Carousel \u2014 Deal of the Month",
-        "thumbnail": "carousel/product-carousel/demo-6/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-6/thumbnail-small.webp",
-        "v": "970f4eb7"
+        "title": "Project Details",
+        "thumbnail": "prebuilt-websites/ai/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/ai/demo-6/thumbnail-small.webp",
+        "v": "bf2b94f3"
       },
       {
         "demo": "demo-7",
-        "title": "Product Carousel \u2014 Trending Now",
-        "thumbnail": "carousel/product-carousel/demo-7/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-7/thumbnail-small.webp",
-        "v": "287a86df"
+        "title": "Gallery",
+        "thumbnail": "prebuilt-websites/ai/demo-7/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/ai/demo-7/thumbnail-small.webp",
+        "v": "01558a20"
       },
       {
         "demo": "demo-8",
-        "title": "Product Carousel \u2014 Sale Collection",
-        "thumbnail": "carousel/product-carousel/demo-8/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-8/thumbnail-small.webp",
-        "v": "1181d19e"
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/ai/demo-8/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/ai/demo-8/thumbnail-small.webp",
+        "v": "28a587c5"
+      }
+    ],
+    "prebuilt-websites__garage": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/garage/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garage/demo-1/thumbnail-small.webp",
+        "v": "bb614b97"
+      },
+      {
+        "demo": "demo-2",
+        "title": "About",
+        "thumbnail": "prebuilt-websites/garage/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garage/demo-2/thumbnail-small.webp",
+        "v": "0eed62ae"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Services",
+        "thumbnail": "prebuilt-websites/garage/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garage/demo-3/thumbnail-small.webp",
+        "v": "8c39b046"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Services Details",
+        "thumbnail": "prebuilt-websites/garage/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garage/demo-4/thumbnail-small.webp",
+        "v": "757caed2"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Gallery",
+        "thumbnail": "prebuilt-websites/garage/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garage/demo-5/thumbnail-small.webp",
+        "v": "4f889344"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Team",
+        "thumbnail": "prebuilt-websites/garage/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garage/demo-6/thumbnail-small.webp",
+        "v": "cc65a055"
+      },
+      {
+        "demo": "demo-7",
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/garage/demo-7/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garage/demo-7/thumbnail-small.webp",
+        "v": "30cc6b54"
+      }
+    ],
+    "prebuilt-websites__garden": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/garden/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garden/demo-1/thumbnail-small.webp",
+        "v": "0b1239b0"
+      },
+      {
+        "demo": "demo-2",
+        "title": "About",
+        "thumbnail": "prebuilt-websites/garden/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garden/demo-2/thumbnail-small.webp",
+        "v": "3735c7fa"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Services",
+        "thumbnail": "prebuilt-websites/garden/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garden/demo-3/thumbnail-small.webp",
+        "v": "1fcab69d"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Project Details",
+        "thumbnail": "prebuilt-websites/garden/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garden/demo-4/thumbnail-small.webp",
+        "v": "36eec469"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Gallery",
+        "thumbnail": "prebuilt-websites/garden/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garden/demo-5/thumbnail-small.webp",
+        "v": "2ee65a0f"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/garden/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/garden/demo-6/thumbnail-small.webp",
+        "v": "465c4ff5"
+      }
+    ],
+    "prebuilt-websites__law": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/law/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/law/demo-1/thumbnail-small.webp",
+        "v": "d7ab3528"
+      },
+      {
+        "demo": "demo-2",
+        "title": "About",
+        "thumbnail": "prebuilt-websites/law/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/law/demo-2/thumbnail-small.webp",
+        "v": "51cc0cfb"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Services",
+        "thumbnail": "prebuilt-websites/law/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/law/demo-3/thumbnail-small.webp",
+        "v": "0b5b4e57"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Services Details",
+        "thumbnail": "prebuilt-websites/law/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/law/demo-4/thumbnail-small.webp",
+        "v": "fb8b91d5"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Blog",
+        "thumbnail": "prebuilt-websites/law/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/law/demo-5/thumbnail-small.webp",
+        "v": "22f951cf"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/law/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/law/demo-6/thumbnail-small.webp",
+        "v": "76f42ff0"
+      }
+    ],
+    "prebuilt-websites__medical": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/medical/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/medical/demo-1/thumbnail-small.webp",
+        "v": "8cdaabc1"
+      },
+      {
+        "demo": "demo-2",
+        "title": "About",
+        "thumbnail": "prebuilt-websites/medical/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/medical/demo-2/thumbnail-small.webp",
+        "v": "0ebf3227"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Services",
+        "thumbnail": "prebuilt-websites/medical/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/medical/demo-3/thumbnail-small.webp",
+        "v": "419d8287"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Gallery",
+        "thumbnail": "prebuilt-websites/medical/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/medical/demo-4/thumbnail-small.webp",
+        "v": "30dd4a1b"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Doctors",
+        "thumbnail": "prebuilt-websites/medical/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/medical/demo-5/thumbnail-small.webp",
+        "v": "7a1c3ec7"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Profile",
+        "thumbnail": "prebuilt-websites/medical/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/medical/demo-6/thumbnail-small.webp",
+        "v": "fe7275f2"
+      },
+      {
+        "demo": "demo-7",
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/medical/demo-7/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/medical/demo-7/thumbnail-small.webp",
+        "v": "ea5b7c4b"
+      }
+    ],
+    "prebuilt-websites__roofing": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/roofing/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-1/thumbnail-small.webp",
+        "v": "90460d23"
+      },
+      {
+        "demo": "demo-2",
+        "title": "About Us",
+        "thumbnail": "prebuilt-websites/roofing/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-2/thumbnail-small.webp",
+        "v": "350c207f"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Service",
+        "thumbnail": "prebuilt-websites/roofing/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-3/thumbnail-small.webp",
+        "v": "33d3c152"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Service Details",
+        "thumbnail": "prebuilt-websites/roofing/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-4/thumbnail-small.webp",
+        "v": "2d2610e0"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Our Projects",
+        "thumbnail": "prebuilt-websites/roofing/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-5/thumbnail-small.webp",
+        "v": "5dc118d0"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Project Details",
+        "thumbnail": "prebuilt-websites/roofing/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-6/thumbnail-small.webp",
+        "v": "d31f2625"
+      },
+      {
+        "demo": "demo-7",
+        "title": "Our Pricing",
+        "thumbnail": "prebuilt-websites/roofing/demo-7/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-7/thumbnail-small.webp",
+        "v": "cf1cd42d"
+      },
+      {
+        "demo": "demo-8",
+        "title": "Our Blogs",
+        "thumbnail": "prebuilt-websites/roofing/demo-8/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-8/thumbnail-small.webp",
+        "v": "6b4e55be"
       },
       {
         "demo": "demo-9",
-        "title": "Product Carousel \u2014 The Living Room Edit",
-        "thumbnail": "carousel/product-carousel/demo-9/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-9/thumbnail-small.webp",
-        "v": "f946f953"
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/roofing/demo-9/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/roofing/demo-9/thumbnail-small.webp",
+        "v": "135b70a8"
+      }
+    ],
+    "prebuilt-websites__solar": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/solar/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/solar/demo-1/thumbnail-small.webp",
+        "v": "f54b5eeb"
       },
       {
-        "demo": "demo-10",
-        "title": "Product Carousel \u2014 Product Spotlight",
-        "thumbnail": "carousel/product-carousel/demo-10/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-10/thumbnail-small.webp",
-        "v": "288ee2a8"
+        "demo": "demo-2",
+        "title": "About",
+        "thumbnail": "prebuilt-websites/solar/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/solar/demo-2/thumbnail-small.webp",
+        "v": "4f0fc4c5"
       },
       {
-        "demo": "demo-11",
-        "title": "Product Carousel \u2014 Looks of the Week",
-        "thumbnail": "carousel/product-carousel/demo-11/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-11/thumbnail-small.webp",
-        "v": "299e5c23"
+        "demo": "demo-4",
+        "title": "Project",
+        "thumbnail": "prebuilt-websites/solar/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/solar/demo-4/thumbnail-small.webp",
+        "v": "9b5669de"
       },
       {
-        "demo": "demo-12",
-        "title": "Product Carousel \u2014 Pieces for the Slow Season",
-        "thumbnail": "carousel/product-carousel/demo-12/thumbnail.webp",
-        "thumbnail_small": "carousel/product-carousel/demo-12/thumbnail-small.webp",
-        "v": "f0105f31"
+        "demo": "demo-5",
+        "title": "Gallery",
+        "thumbnail": "prebuilt-websites/solar/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/solar/demo-5/thumbnail-small.webp",
+        "v": "4823eca0"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Blog",
+        "thumbnail": "prebuilt-websites/solar/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/solar/demo-6/thumbnail-small.webp",
+        "v": "b1587ee8"
+      },
+      {
+        "demo": "demo-7",
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/solar/demo-7/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/solar/demo-7/thumbnail-small.webp",
+        "v": "6e2a189c"
       }
     ]
   }

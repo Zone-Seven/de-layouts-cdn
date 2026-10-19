@@ -169,6 +169,20 @@
         "travel",
         "web-services"
       ]
+    },
+    {
+      "slug": "prebuilt-websites",
+      "name": "Pre-Built Websites",
+      "modules": [
+        "agency",
+        "ai",
+        "garage",
+        "garden",
+        "law",
+        "medical",
+        "roofing",
+        "solar"
+      ]
     }
   ]
 }
