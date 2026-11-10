@@ -176,10 +176,14 @@
       "modules": [
         "agency",
         "ai",
+        "consult",
         "garage",
         "garden",
+        "handyman",
         "law",
+        "marketing-agency",
         "medical",
+        "realio",
         "roofing",
         "solar"
       ]
