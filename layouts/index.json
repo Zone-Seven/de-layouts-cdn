@@ -181,6 +181,7 @@
         "garage",
         "garden",
         "handyman",
+        "hosting",
         "law",
         "marketing-agency",
         "medical",
@@ -6485,6 +6486,13 @@
         "v": "d57bce6e"
       },
       {
+        "demo": "demo-6",
+        "title": "Pricing",
+        "thumbnail": "prebuilt-websites/consult/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/consult/demo-6/thumbnail-small.webp",
+        "v": "bdc1eede"
+      },
+      {
         "demo": "demo-7",
         "title": "Blog",
         "thumbnail": "prebuilt-websites/consult/demo-7/thumbnail.webp",
@@ -6657,6 +6665,71 @@
         "thumbnail": "prebuilt-websites/handyman/demo-8/thumbnail.webp",
         "thumbnail_small": "prebuilt-websites/handyman/demo-8/thumbnail-small.webp",
         "v": "86b5587e"
+      }
+    ],
+    "prebuilt-websites__hosting": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/hosting/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-1/thumbnail-small.webp",
+        "v": "33f3de65"
+      },
+      {
+        "demo": "demo-2",
+        "title": "About",
+        "thumbnail": "prebuilt-websites/hosting/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-2/thumbnail-small.webp",
+        "v": "24072126"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Services",
+        "thumbnail": "prebuilt-websites/hosting/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-3/thumbnail-small.webp",
+        "v": "c4137482"
+      },
+      {
+        "demo": "demo-4",
+        "title": "Service Details",
+        "thumbnail": "prebuilt-websites/hosting/demo-4/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-4/thumbnail-small.webp",
+        "v": "957dfea0"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Projects",
+        "thumbnail": "prebuilt-websites/hosting/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-5/thumbnail-small.webp",
+        "v": "69b853ac"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Project Details",
+        "thumbnail": "prebuilt-websites/hosting/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-6/thumbnail-small.webp",
+        "v": "280f6beb"
+      },
+      {
+        "demo": "demo-7",
+        "title": "Pricing",
+        "thumbnail": "prebuilt-websites/hosting/demo-7/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-7/thumbnail-small.webp",
+        "v": "051e05c4"
+      },
+      {
+        "demo": "demo-8",
+        "title": "Blog",
+        "thumbnail": "prebuilt-websites/hosting/demo-8/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-8/thumbnail-small.webp",
+        "v": "e5722802"
+      },
+      {
+        "demo": "demo-9",
+        "title": "Blog Details",
+        "thumbnail": "prebuilt-websites/hosting/demo-9/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/hosting/demo-9/thumbnail-small.webp",
+        "v": "3e6fd0ee"
       }
     ],
     "prebuilt-websites__law": [
