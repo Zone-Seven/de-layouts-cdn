@@ -178,6 +178,7 @@
         "agency",
         "ai",
         "consult",
+        "fitness",
         "garage",
         "garden",
         "handyman",
@@ -6512,6 +6513,57 @@
         "thumbnail": "prebuilt-websites/consult/demo-9/thumbnail.webp",
         "thumbnail_small": "prebuilt-websites/consult/demo-9/thumbnail-small.webp",
         "v": "c9e8de6d"
+      }
+    ],
+    "prebuilt-websites__fitness": [
+      {
+        "demo": "demo-1",
+        "title": "Home",
+        "thumbnail": "prebuilt-websites/fitness/demo-1/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/fitness/demo-1/thumbnail-small.webp",
+        "v": "e5043d73"
+      },
+      {
+        "demo": "demo-2",
+        "title": "About",
+        "thumbnail": "prebuilt-websites/fitness/demo-2/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/fitness/demo-2/thumbnail-small.webp",
+        "v": "48af1747"
+      },
+      {
+        "demo": "demo-3",
+        "title": "Services",
+        "thumbnail": "prebuilt-websites/fitness/demo-3/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/fitness/demo-3/thumbnail-small.webp",
+        "v": "e69dd3a7"
+      },
+      {
+        "demo": "demo-5",
+        "title": "Trainer",
+        "thumbnail": "prebuilt-websites/fitness/demo-5/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/fitness/demo-5/thumbnail-small.webp",
+        "v": "2dedcc18"
+      },
+      {
+        "demo": "demo-6",
+        "title": "Trainer Details",
+        "thumbnail": "prebuilt-websites/fitness/demo-6/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/fitness/demo-6/thumbnail-small.webp",
+        "v": "79e8ffb9"
+      },
+      {
+        "demo": "demo-7",
+        "title": "Pricing",
+        "thumbnail": "prebuilt-websites/fitness/demo-7/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/fitness/demo-7/thumbnail-small.webp",
+        "v": "cea43c7a"
+      },
+      {
+        "demo": "demo-8",
+        "title": "Contact",
+        "thumbnail": "prebuilt-websites/fitness/demo-8/thumbnail.webp",
+        "thumbnail_small": "prebuilt-websites/fitness/demo-8/thumbnail-small.webp",
+        "v": "0a417b84"
       }
     ],
     "prebuilt-websites__garage": [
